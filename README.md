@@ -1,4 +1,4 @@
-# Commercial-District-Analysis
+# [Commercial-District-Analysis](https://github.com/GodJiLee/Commercial-District-Analysis/blob/main/2020_%EC%83%81%EA%B6%8C%EB%B6%84%EC%84%9D_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C_%EC%9E%90%EB%B9%84%EC%8A%A4-%EB%B3%B5%EC%82%AC.pdf)
 **Topic**   
 AI 기술을 활용한 상권분석 리포트 커스터마이징
 
