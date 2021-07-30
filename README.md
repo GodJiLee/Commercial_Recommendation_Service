@@ -1,5 +1,5 @@
 # Commercial-District-Analysis
-**- Topic**
+**- Topic**   
 AI 기술을 활용한 상권분석 리포트 커스터마이징
 
 * *본 프로젝트는 서울신용보증재단에서 제공하는 소상공인 관련 데이터를 활용하였음*
